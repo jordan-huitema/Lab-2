@@ -1,6 +1,8 @@
 # Lab-Two
 Jordan Huitema
 
+>OPEN IN VS CODE SO STYLEING ISNT WONKY<
+
 --Journal Week 3--
 
 The main thing we focused on this week was repeatedly typeing console.log();. In between this we also focused on JavaScript Operators, we learned what they are and how to use them.
